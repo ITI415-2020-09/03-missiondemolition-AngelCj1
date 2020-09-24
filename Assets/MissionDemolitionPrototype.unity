@@ -529,6 +529,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1687698739}
+  - component: {fileID: 1687698740}
   m_Layer: 0
   m_Name: LaunchPoint
   m_TagString: Untagged
@@ -550,6 +551,18 @@ Transform:
   m_Father: {fileID: 1665553167}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!122 &1687698740
+Halo:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687698738}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4290756543
+  m_Size: 1
 --- !u!1 &1704655221
 GameObject:
   m_ObjectHideFlags: 0
